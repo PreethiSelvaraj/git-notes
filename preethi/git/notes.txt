@@ -1,1 +1,2 @@
-my first command git
+my first command git. 
+my second line
